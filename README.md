@@ -1,4 +1,4 @@
-# Hi! My name is Visall 😊
+# Hi! My name is Visall👋
 
 🌍 I am a Front-End Developer based in Coimbatore, India.
 
