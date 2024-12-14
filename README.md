@@ -1,7 +1,7 @@
 ## Hi! My name is Visall👋
 
-#🌍 I am a Front-End Developer based in Coimbatore, India.
-#💻 Open to work!
+🌍 I am a Front-End Developer based in Coimbatore, India.<br>
+💻 Open to work!
 
 
 ## Skills
